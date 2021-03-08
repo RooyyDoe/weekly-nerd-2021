@@ -17,9 +17,14 @@
 
 #### Aantekeningen Label A
 
+<details>
+<summary>Sketch notes</summary>
+
 ![aantekeningen-1-label-a](/images/aantekeningen-label-a-1.jpeg "Label A aantekeningen 1")
 
 ![aantekeningen-2-label-a](/images/aantekeningen-label-a-2.jpeg "Label A aantekeningen 2")
+
+</details>
 
 #### Vraag
 
