@@ -30,15 +30,15 @@
 
 In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Brad Frost om de vraag te beantwoorden.
 
-`Anwser of the question`
-
+```
 - Visueel inzicht
-- Ijverig om te leren
+- Ijverig zijn om te leren
 - Communicatie
 - Good understanding of the languages
 
-Front-end werk is zo diverse dat het niet op één hand valt te tellen. Ik vind dat een front-end developer flexibel moet zijn in zijn werk en niet bang moet zijn om wat nieuws te leren. Je moet het als developer ook wel daadwerkelijk leuk vinden om nieuwe dingen te leren, want de developer wereld veranderd letterlijke elke dag.
+Front-end werk is zo diverse dat het niet op één hand valt te tellen. Ik vind dat een front-end developer flexibel moet zijn in zijn werk en niet bang moet zijn om wat nieuws te leren. Je moet het als developer ook wel daadwerkelijk leuk vinden om nieuwe technieken te leren, want de developer wereld veranderd letterlijke elke dag.
 
 Samenwerking is een groot deel van dit vak en daarom is dit de sleutel naar succes. Dit kan zijn met een mede-developer, maar ook een UX designer. Ik vind dat je als front-end developer goed moet communiceren met je andere collega's.
 
 Ook moet je jezelf nooit vergelijken met een ander persoon, er zijn altijd mensen die het beter kunnen. _Just Deal With It_
+```
