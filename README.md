@@ -8,30 +8,13 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 - Oriënteren op het vakgebied
 - Vakgerelateerde artikelen leren schrijven
 
-## Programma & Werkwijze
-Drie keer wordt er een presentatie gegeven door bedrijven uit het vakgebied. 
-Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-Maak van iedere presentatie sketch-notes / aantekeningen en beantwoord de vraag die bij de sessie hoort. 
-Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
-<!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
+## Inhoudsopgave
 
 
-Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
 
-### Weekly Nerd #1
 
-| Datum  |  Bedrijven |
-|---|---|
-| 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) |
 
-#### Vraag
 
-In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Brad Frost om de vraag te beantwoorden. 
 
 
 ### Weekly Nerd #2
